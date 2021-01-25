@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# copy Yihui
+public
+static/figures
+blogdown
