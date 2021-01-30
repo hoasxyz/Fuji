@@ -7,9 +7,12 @@ categories:
   - notes
 tags:
   - R
+description: "improve computing efficiency in r"
 ---
 
 一些提高R语言运算效率的方法，尤其是循环。
+
+<!--more-->
 
 ## data.table::set()
 
