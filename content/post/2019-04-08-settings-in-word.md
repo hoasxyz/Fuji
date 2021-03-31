@@ -71,7 +71,7 @@ license: CC BY-NC 4.0
 
   - 页眉顶端距离：1.5厘米；
   - 页脚底端距离：1厘米（插入页码后为1.5厘米）。
-  
+
 ## 格式
 
 1.错误！文档中没有指定样式的文字！
@@ -153,6 +153,7 @@ C:\WINDOWS\system32>regsvr32 "D:\Adobe\Acrobat DC\PDFMaker\Office\PDFMOfficeAddi
 2.Mathtype
 
   1. 插入章节分隔符，一般都是章（节），这个分隔符不要放在章标题上！我不知道如何不让它在目录中显示。
+    2. 不同正文字号的文档中进行公式的迁移，不用一个个手动改啦：http://www.360doc.com/content/17/0118/13/22909943_623260452.shtml
 
 # R语言高清图
 
