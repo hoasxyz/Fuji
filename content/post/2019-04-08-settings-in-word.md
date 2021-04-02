@@ -227,6 +227,10 @@ font_add(family = "tnr_st", regular = "Times New Roman + SimSun Regular.ttf")
 
 使用Adobe Acrobat转换。
 
+## 宏
+
+如果禁用了所有的宏，不是正版的 mathtype 插件会在 Word 中灰掉，而且粘贴功能在 Word 中失效（复制仍然可以）。
+
 ## 参考文献
 
 R的两本书：
