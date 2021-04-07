@@ -5,7 +5,7 @@ date: '2021-04-06'
 slug: public-opinion
 categories:
   - experience
-tags: []
+tags: [idea]
 subtitle: ''
 lastmod: '2021-04-06T19:53:45+08:00'
 authorLink: ''
