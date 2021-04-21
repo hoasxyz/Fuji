@@ -37,7 +37,7 @@ license: CC BY-NC 4.0
 
 别忘了每个分节后调整页脚底端距离！
 
-除非页眉/脚已经设置过全局。
+除非页眉/页脚已经设置过全局。
 
 2.插入奇偶互异的页眉
 
@@ -67,7 +67,7 @@ license: CC BY-NC 4.0
   - 左边距为30mm；
   - 右边距为30mm。
 
-可以在`设计-页边距-自定义页边距`中进行默认设置。
+可以在`设计-页边距-自定义页边距`中设置，在`布局-页边距-自定义页边距-版式`中进行默认`normal`文件的设置。
 
   - 页眉顶端距离：1.5厘米；
   - 页脚底端距离：1厘米（插入页码后为1.5厘米）。
@@ -153,13 +153,15 @@ C:\WINDOWS\system32>regsvr32 "D:\Adobe\Acrobat DC\PDFMaker\Office\PDFMOfficeAddi
 2.Mathtype
 
   1. 插入章节分隔符，一般都是章（节），这个分隔符不要放在章标题上！我不知道如何不让它在目录中显示。
-    2. 不同正文字号的文档中进行公式的迁移，不用一个个手动改啦：http://www.360doc.com/content/17/0118/13/22909943_623260452.shtml
+    
+  2. 不同正文字号的文档中进行公式的迁移，不用一个个手动改啦：http://www.360doc.com/content/17/0118/13/22909943_623260452.shtml
 
 # R语言高清图
 
 在论坛：
 
   1.  https://d.cosx.org/d/420771-rstudio
+  
   2.  https://d.cosx.org/d/421024-r-rstudio/4 
 
 中均未得到一个让我比较满意的结果。但并不是没有结果，可以用来保存少量高质量的PDF或者是PNG图像，不过操作略微繁琐，不适合大批量图像的使用。
@@ -209,6 +211,7 @@ font_add(family = "tnr_st", regular = "Times New Roman + SimSun Regular.ttf")
 2.更新所有域
 
 `ctrl+A`然后再某个插入域的地方右键`更新域`。
+
 3.盘古之白
 
 如何像HTML一样在word中拥有[盘古之白](https://github.com/vinta/pangu.js)的效果？

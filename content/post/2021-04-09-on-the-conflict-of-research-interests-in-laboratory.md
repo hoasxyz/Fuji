@@ -3,6 +3,7 @@ title: 论实验室科研利益冲突
 author: hoas
 date: '2021-04-09'
 slug: on the conflict of research interests in laboratory
+draft: true
 categories:
   - cases
 tags:
